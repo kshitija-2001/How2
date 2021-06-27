@@ -1,9 +1,9 @@
 # How2
-## Youtube link:-https://youtu.be/T_MCyy6B5qk
+## Youtube link: https://youtu.be/T_MCyy6B5qk
 
 Hack your life by learning how to. 
 
-### The problem it solves:
+### The problem it solves
 The website can be used to solve problems faced by a person in their day to day life by providing easy solutions in the form of articles. These articles would provide information and the instructions to solve the particular problem. Moreover, it would provide guides on building skills or day to day habits. It would act as a one big compilation of trusted articles from various categories like Computers and electronics, Maintenance assistance, Cooking, First aid, Mental health, Automobiles and driving, Education, Fitness and many more. 
 
 Basic use case of the website can be explained with the help of an example. If a user needs to fix a slow moving fan, he can do it himself by following the steps in the articles provided instead of calling for help. The articles under Mental health, Self care, Fitness and Hobbies would promote healthier lifestyles and more importantly support people in these trying times of the pandemic. Users can also submit their own articles for review which can be later displayed on the website. 
