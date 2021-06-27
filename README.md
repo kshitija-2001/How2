@@ -1,5 +1,6 @@
 # how2
 youtube link:-https://youtu.be/T_MCyy6B5qk
+
 Tagline
 Hack your life by learning how to. 
 
@@ -16,3 +17,10 @@ Displaying articles through pop up and modal was a bit tricky for the team. Spec
 
 Technologies we used
 HTML, CSS, JS, PHP, SQL
+
+
+![signin](https://user-images.githubusercontent.com/60540365/123541209-ee503c00-d760-11eb-8543-ee062dac6134.png)
+![submit](https://user-images.githubusercontent.com/60540365/123541211-f019ff80-d760-11eb-926f-cf5c546a6cde.JPG)
+![cat](https://user-images.githubusercontent.com/60540365/123541216-f314f000-d760-11eb-840d-d447bd1805e3.JPG)
+![comp](https://user-images.githubusercontent.com/60540365/123541217-f4461d00-d760-11eb-82d7-2692fbb0c2f8.JPG)
+![article](https://user-images.githubusercontent.com/60540365/123541220-f5774a00-d760-11eb-9426-32befb081cf8.JPG)
